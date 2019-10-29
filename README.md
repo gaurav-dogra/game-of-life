@@ -5,7 +5,7 @@ This project is implementation of **Conway's Game of Life.**
 
 ![GUI Version](/gui-version.png)
 
-You can [download](https://github.com/gaurav-dogra/game-of-life/releases) the JAR file to run this program.
+You can [download](https://github.com/gaurav-dogra/game-of-life/releases/download/v1.0/game-of-life.jar) the JAR file to run this program.
 
 ### Console Version
 
