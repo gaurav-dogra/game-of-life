@@ -3,7 +3,6 @@ package Graphics;
 
 import gameoflife.Board;
 
-import java.util.Scanner;
 /**
  * The swing version of the program starts here. By default this program would do one hundred thousand iterations of the grid.
  *
@@ -12,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         // Board is a grid where each cell is either true or false
         // probability is how many cells are true initially
         Board grid = new Board(20, 40, 0.5);
