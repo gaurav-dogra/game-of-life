@@ -1,12 +1,18 @@
-# game-of-life
-This project is implementation of **Conway's Game of Life.**
+# Conway's Game of Life
+This project is the implementation of **Conway's Game of Life.**. 
 
-### GUI Version
+## Technologies used
+1. Java
+2. Swing
 
-![GUI Version](/gui-version.png)
+## How to run GUI version
+1. Download the zip file or clone the project
+2. Run file game-of-life/src/Graphics/Main.java
 
-You can [download](https://github.com/gaurav-dogra/game-of-life/releases/download/v1.0/game-of-life.jar) the JAR file to run this program.
+![Demo of GUI version](game-of-life/game of life.gif)
 
-### Console Version
+## How to run Console version
+1. Download the zip file or clone the project
+2. Run file game-of-life/src/Console/Main.java
 
-![Console Version](/console-version.png)
+![Demo of Console version](game-of-life/game of life console.gif)
