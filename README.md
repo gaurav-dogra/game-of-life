@@ -9,7 +9,7 @@ This project is the implementation of **Conway's Game of Life.**.
 1. Download the zip file or clone the project
 2. Run file game-of-life/src/Graphics/Main.java
 
-![Demo of GUI version](https://giphy.com/gifs/captain-america-freedom-gif-S3sc3Pg9dFpUA)
+![Demo of GUI version](giphy.gif)
 
 ## How to run Console version
 1. Download the zip file or clone the project
