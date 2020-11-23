@@ -9,10 +9,10 @@ This project is the implementation of **Conway's Game of Life.**.
 1. Download the zip file or clone the project
 2. Run file game-of-life/src/Graphics/Main.java
 
-![Demo of GUI version] (https://github.com/gaurav-dogra/game-of-life/blob/master/gol.gif)
+![Demo of GUI version](game-of-life/gol.gif)
 
 ## How to run Console version
 1. Download the zip file or clone the project
 2. Run file game-of-life/src/Console/Main.java
 
-![Demo of Console version](game-of-life/game of life console.gif)
+![Demo of Console version] (game-of-life/game of life console.gif)
