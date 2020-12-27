@@ -1,5 +1,5 @@
 # Conway's Game of Life
-This project is the implementation of **Conway's Game of Life.**. 
+This project is the implementation of [**Conway's Game of Life.**](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). 
 
 ## Technologies used
 1. Java
@@ -9,10 +9,10 @@ This project is the implementation of **Conway's Game of Life.**.
 1. Download the zip file or clone the project
 2. Run file game-of-life/src/Graphics/Main.java
 
-![Demo of GUI version](giphy.gif)
+
 
 ## How to run Console version
 1. Download the zip file or clone the project
 2. Run file game-of-life/src/Console/Main.java
 
-![Demo of Console version] (game-of-life/game of life console.gif)
+
